@@ -1,17 +1,17 @@
 # test-app
 
-[![Release](https://img.shields.io/github/v/release/fpgmaas/test-app)](https://img.shields.io/github/v/release/fpgmaas/test-app)
-[![Build status](https://img.shields.io/github/workflow/status/fpgmaas/test-app/merge-to-main)](https://img.shields.io/github/workflow/status/fpgmaas/test-app/merge-to-main)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/fpgmaas/test-app)](https://img.shields.io/github/commit-activity/m/fpgmaas/test-app)
-[![Docs](https://img.shields.io/badge/docs-gh--pages-blue)](https://fpgmaas.github.io/test-app/)
+[![Release](https://img.shields.io/github/v/release/bhjelmar/test-app)](https://img.shields.io/github/v/release/bhjelmar/test-app)
+[![Build status](https://img.shields.io/github/workflow/status/bhjelmar/test-app/merge-to-main)](https://img.shields.io/github/workflow/status/bhjelmar/test-app/merge-to-main)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/bhjelmar/test-app)](https://img.shields.io/github/commit-activity/m/bhjelmar/test-app)
+[![Docs](https://img.shields.io/badge/docs-gh--pages-blue)](https://bhjelmar.github.io/test-app/)
 [![Code style with black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Imports with isort](https://img.shields.io/badge/%20imports-isort-%231674b1)](https://pycqa.github.io/isort/)
-[![License](https://img.shields.io/github/license/fpgmaas/test-app)](https://img.shields.io/github/license/fpgmaas/test-app)
+[![License](https://img.shields.io/github/license/bhjelmar/test-app)](https://img.shields.io/github/license/bhjelmar/test-app)
 
 This is a template repository for Python projects that use Poetry for their dependency management.
 
-- **Github repository**: <https://github.com/fpgmaas/test-app/>
-- **Documentation** <https://fpgmaas.github.io/test-app/>
+- **Github repository**: <https://github.com/bhjelmar/test-app/>
+- **Documentation** <https://bhjelmar.github.io/test-app/>
 
 ## Releasing a new version
 
