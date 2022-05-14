@@ -104,7 +104,7 @@ development. Please note this documentation assumes you already have
 
    .. code-block:: bash
 
-        make lint
+rename        make check
 
 | 7. Now, validate that all unit tests are passing:
 
